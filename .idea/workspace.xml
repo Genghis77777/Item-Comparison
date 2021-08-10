@@ -27,28 +27,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.04_recommendation_v1">
-    <configuration name="02_product_entering_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Item Comparison" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_product_entering_v2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.04_recommendation_v3">
     <configuration name="03_product_comparing_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Item Comparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,6 +91,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="04_recommendation_v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Item Comparison" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_recommendation_v3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Item Comparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_recommendation_v1" />
+        <item itemvalue="Python.04_recommendation_v3" />
         <item itemvalue="Python.Test" />
+        <item itemvalue="Python.04_recommendation_v1" />
         <item itemvalue="Python.03_product_comparing_v2" />
         <item itemvalue="Python.03_product_comparing_v1" />
-        <item itemvalue="Python.02_product_entering_v2" />
       </list>
     </recent_temporary>
   </component>
@@ -149,33 +149,38 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="266" y="58" key="#Inspections/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628122781243" />
+    <state x="320" y="115" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1628559955289">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628559955289" />
     <state x="420" y="134" key="FileChooserDialogImpl" timestamp="1627429158675">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1627429158675" />
-    <state x="463" y="280" key="Github.CreateGistDialog" timestamp="1628465646706">
+    <state x="463" y="280" key="Github.CreateGistDialog" timestamp="1628562536559">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="463" y="280" key="Github.CreateGistDialog/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628465646706" />
-    <state width="1257" height="130" key="GridCell.Tab.0.bottom" timestamp="1628465070675">
+    <state x="463" y="280" key="Github.CreateGistDialog/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628562536558" />
+    <state width="1259" height="518" key="GridCell.Tab.0.bottom" timestamp="1628561897480">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1257" height="130" key="GridCell.Tab.0.bottom/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628465070675" />
-    <state width="1257" height="130" key="GridCell.Tab.0.center" timestamp="1628465070674">
+    <state width="1259" height="518" key="GridCell.Tab.0.bottom/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628561897480" />
+    <state width="1259" height="518" key="GridCell.Tab.0.center" timestamp="1628561897479">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1257" height="130" key="GridCell.Tab.0.center/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628465070674" />
-    <state width="1257" height="130" key="GridCell.Tab.0.left" timestamp="1628465070673">
+    <state width="1259" height="518" key="GridCell.Tab.0.center/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628561897479" />
+    <state width="1259" height="518" key="GridCell.Tab.0.left" timestamp="1628561897478">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1257" height="130" key="GridCell.Tab.0.left/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628465070673" />
-    <state width="1257" height="130" key="GridCell.Tab.0.right" timestamp="1628465070674">
+    <state width="1259" height="518" key="GridCell.Tab.0.left/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628561897478" />
+    <state width="1259" height="518" key="GridCell.Tab.0.right" timestamp="1628561897479">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1257" height="130" key="GridCell.Tab.0.right/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628465070674" />
-    <state x="141" y="24" key="SettingsEditor" timestamp="1628154515999">
+    <state width="1259" height="518" key="GridCell.Tab.0.right/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628561897479" />
+    <state x="141" y="24" key="SettingsEditor" timestamp="1628466133447">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
+    <state x="141" y="24" key="SettingsEditor/0.0.1280.760/1280.0.1920.1040@0.0.1280.760" timestamp="1628466133447" />
     <state x="141" y="24" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1628154515999" />
     <state x="296" y="170" key="run.anything.popup" timestamp="1628465590270">
       <screen x="0" y="0" width="1280" height="760" />
